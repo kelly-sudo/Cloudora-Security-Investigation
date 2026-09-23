@@ -18,7 +18,7 @@
 Between August 8 and 10, external attacker ran a password guessing campaign against multiple accounts in our company. In the early hours of August 10 attacker guessed correct passwords for two accounts.
 daniel.reeve@cloudora.io account (CEO) logged in from Lagos, Nigeria at around 3 AM, but at 8 AM Daniel logged in from London. That is called impossible travel, so IT admin member raised an alert. 
 After reviewing suspicious logs, we found that attacker registered their own device and created a hidden email rule that diverts finance and invoice mails. Second compromised account was 
-priya.nair@cloudora.io. Compromise was detected same morning after 5 hours of initial access. Both accounts were contained, attacker device and email eule were removed and IPs from Lagos, Nigeria blocked. No further evidence
+priya.nair@cloudora.io. Compromise was detected same morning after 5 hours of initial access. Both accounts were contained, attacker device and email rule were removed and IPs from Lagos, Nigeria blocked. No further evidence
 was found. The remaining 24 accounts that was affected by the attack have been flagged for credentials reset.
 
 
