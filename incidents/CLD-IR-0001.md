@@ -201,8 +201,6 @@ Omar Farah is the only documented false positive. He stays on the reset list abo
 
 ## 9. Lessons learned
 
-Lesson learned from this investigation is that if we have had password spray rule we would detect it 51 hours earlier before Daniel's account was compromised. 
-Audit logs showed that attacker created backdoor and without it reseting only credentials won't stop the breach. Eradication has to cover everything the attacker changed, not just the way they got in
-Baseline comparison between Daniel and Omar prevented false accusation of compromised account. 
+This investigation highlighted several important lessons. A password spray detection rule could have detected the attack 51 hours earlier, before Daniel's account was compromised. Audit logs showed that the attacker created a backdoor, demonstrating that resetting credentials alone would not have stopped the breach. Eradication must cover everything the attacker changed, not just the initial method of access. Finally, comparing Daniel's activity with Omar's baseline helped prevent a false positive and avoid incorrectly identifying Omar's account as compromised.
 
 > End of report CLD-IR-0001. Training artefact - Cloudora is a fictional company; all data is synthetic. (MyFirstHack)
