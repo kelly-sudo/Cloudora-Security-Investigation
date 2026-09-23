@@ -8,7 +8,7 @@
 | **Analyst** | Radosław Huppert |
 | **Date of report (UTC)** | 10-08-2026 |
 | **Incident severity** | P1 - Executive account, active enterprise deal |
-| **Status** | Open / Contained / Eradicated / Closed |
+| **Status** | Contained - eradication verified, monitoring continues|
 | **Classification** | This is training copy of fictional company named Cloudora (MyFirstHack scenario) |
 
 ---
